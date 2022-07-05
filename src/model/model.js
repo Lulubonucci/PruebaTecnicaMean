@@ -6,7 +6,7 @@ const Feed = new Schema({
   title: String,
   body: String,
   image: String,
-  source: String,
+  //source: String,
   publisher: String,
 });
 
